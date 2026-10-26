@@ -10,7 +10,7 @@ const profile = {
     degree: "B.Tech in Computer Science and Engineering",
     university: "DIT University, Dehradun",
     graduationYear: 2028,
-    cgpa: "8.74",
+    cgpa: "8.51",
   },
 
   location: "Dehradun, India",
